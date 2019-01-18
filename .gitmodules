@@ -1,0 +1,4 @@
+[submodule "BT-dschleich/xyz12"]
+	path = BT-dschleich/xyz12
+	url = git@github.com:BT-dschleich/xyz12.git
+	branch = master
